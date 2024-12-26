@@ -62,7 +62,7 @@ color: #404bbf;}
     font-style: normal;
 }
 
-.header-class{
+h1{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -71,7 +71,7 @@ color: #404bbf;}
 
 }
 
-.button-class{
+button{
     background-color: #4D5AE5;
     font-family: "Roboto",sans-serif;
     font-weight: 500;
@@ -106,12 +106,9 @@ color: #404bbf;}
     color: #434455;
 }
 
-.team-info{
-    background-color: #f4f4fd;
 
-}
 
-.big-header{
+h2{
     font-size: 36px;
     color: #2e2f42;
     text-transform: capitalize;
@@ -125,7 +122,7 @@ color: #404bbf;}
 
 }
 
-.medium-header{
+h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -133,7 +130,7 @@ color: #404bbf;}
     color: #2e2f42;
 }
 
-.small-text{
+p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
