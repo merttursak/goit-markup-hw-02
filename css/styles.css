@@ -18,7 +18,7 @@ color: #4d5ae5;
 }
 
 .logo-text{
-    
+    font-family: "Raleway";
     color: #2e2f42;
 
 }
@@ -114,8 +114,8 @@ color: #404bbf;}
     letter-spacing: 0.02em;
     text-align: center;
     line-height: 1.11;
-
 }
+
 .team-cards{
     background-color: #FFFFFF;
 
