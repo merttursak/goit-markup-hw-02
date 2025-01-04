@@ -150,3 +150,7 @@ color: #404bbf;}
 .our-team-section{
     background-color: #f4f4fd;
 }
+
+ul{
+    list-style-type: none;
+}
